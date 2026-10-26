@@ -1,0 +1,530 @@
+{
+ "work": "今様",
+ "work_id": "imayo",
+ "repo": "kumoi-no-fumigura/imayo",
+ "yomi": "いまよう",
+ "category": "歌謡",
+ "kind": "kashu",
+ "description": null,
+ "editions": [
+  {
+   "pid": "1913603",
+   "title": "有朋堂文庫 第69（歌謡）",
+   "editor": "",
+   "series": "有朋堂文庫",
+   "publisher": "有朋堂書店",
+   "year": 1915,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/1913603"
+  }
+ ],
+ "status": "校正前（国立国会図書館の全文テキスト（OCR）を、見出しで切ったもの。異文の印は本文に残した。注は sachu に入れた）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "imayo-000001",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "",
+   "kotobagaki": "（見出し無し）",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "雁ならば。名のりぞせまし。猶くゞひなりや。トウ〓〓",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    92
+   ],
+   "no": 1,
+   "poems": []
+  },
+  {
+   "id": "imayo-000002",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "今樣",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "春の初(郢曲譜)ヤ。春のはじめのャ。梅の花ヤ。よろこびひらけて。みなるはな。おまへの池なる。薄こほり。こ〓ろとけたるヤ。たゞいまかな。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    92
+   ],
+   "no": 2,
+   "poems": []
+  },
+  {
+   "id": "imayo-000003",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "蓬萊山同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "ヤ。蓬萊山にはャ。千とせふるヤ。萬歲千秋かさなれりン。松のえだには。鶴すくひ。巖がそばには。龜あそぶ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    92
+   ],
+   "no": 3,
+   "poems": []
+  },
+  {
+   "id": "imayo-000004",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "りやうぜんみやま同占",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "靈山みやまのャ。五葉松ヤ。竹葉なりとぞ。人はいふ。われも見る。竹葉なりとも。を折りもてこん。歸のかざしに。まつさよん。ふるき都(源平盛衰記所載)ふるき都を。來て見れば。淺茅が原とぞ。なりにける。月の光は。くまなくて。秋風のみぞ。身にはしむ。後德大寺實定作よろづの佛の(同上)よろづの佛の。願よりも。千手の誓ぞ。たのもしき。枯れたる木草も。たちまちに。花さき實なる。とこそ聞け。君をはじめて(同)ヒ)君をはじめて。見る時は。千代も經ぬべし。姫小松。おまへの池なる。龜岡に。鶴こそむれゐて。あそぶなれ。",
+   "yomi": "",
+   "sachu": "千手-觀音也",
+   "jo": false,
+   "pages": [
+    92,
+    93
+   ],
+   "no": 4,
+   "poems": []
+  },
+  {
+   "id": "imayo-000005",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "佛も昔は(同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "佛もむかしは。凡夫なり。我らもつひには。ほとけなり。三身佛性具しながら。へだつる心の。うたてさよ。",
+   "yomi": "",
+   "sachu": "ものゆゑに-ものなるに彌陀-無量壽佛",
+   "jo": false,
+   "pages": [
+    93
+   ],
+   "no": 5,
+   "poems": []
+  },
+  {
+   "id": "imayo-000006",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "君があげこし(同上",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "君があげこし。手枕の。たえて久しく。なりにけり。何しにひまなく。むつれけん。ながらへもせぬ。ものゆゑに。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    93
+   ],
+   "no": 6,
+   "poems": []
+  },
+  {
+   "id": "imayo-000007",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "心のやみの(同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "心のやみの。深きをば。燈籠の火こそ照らすなれ。彌陀の誓を。たのむ身は。照らさぬところも。なかりけり。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    93
+   ],
+   "no": 7,
+   "poems": []
+  },
+  {
+   "id": "imayo-000008",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "はくろは同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "白露は月の。ひかりにて。黃土うるほす。化あり。權現舟に。さをさして。むかひの岸に。よする波",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    93
+   ],
+   "no": 8,
+   "poems": []
+  },
+  {
+   "id": "imayo-000009",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "佛の方便(同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "ほとけの方便。なりければ。神祇の威光。たのもしや。た〓けば必ず。ひゞきあり。あふ仰げば定めて。花ぞさく。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    93
+   ],
+   "no": 9,
+   "poems": []
+  },
+  {
+   "id": "imayo-000010",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "さまも心も(同上",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "さまも心も。かはるかな。おつる淚は。瀧の水。妙法蓮華の。池となり。弘誓の舟に。さをさして。沈む我身を。のせたまへ。びに憎かりきなくてぞ人はこひしかりける」月も同じ(長門本平家物語所載)つきおなつきそらおなそら月も同じ月。空も同じ空の。いかなれば。こよひの空の。照りまさるらん。ありのすさびの(義經記所載)ありのすさびの。にくきだに。ありきのあとは。戀しきに。あかで離れし。面影を。いつの世にかは。忘るべき。",
+   "yomi": "",
+   "sachu": "しづわがみありのすさび-あるが儘に任せての意、源氏物語の註に「ある時はありのすさ",
+   "jo": false,
+   "pages": [
+    94
+   ],
+   "no": 10,
+   "poems": []
+  },
+  {
+   "id": "imayo-000011",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "わかれのことに(同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "わかれのことに。悲しきは。親のわかれ。子のわかれ。すぐれてげにも。悲しきは。夫妻の別なりけり。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    94
+   ],
+   "no": 11,
+   "poems": []
+  },
+  {
+   "id": "imayo-000012",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "春はさくらの(同上",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "春はさくらの。流るれば。吉野川とは(ィも)。なづけたり。秋は紅葉の。ながるれば。立田川とも。いひつべし。冬も末に。なりぬれば。法師も紅葉も。ながれたり。あたりの野邊の(同上)あたりの野邊の。白眞弓。おし張りすびきし。肩に掛け。なれぬほどは。何にせん。馴\"れての後は。そるぞくやしき。藤原實方作",
+   "yomi": "",
+   "sachu": "すびき-素引か",
+   "jo": false,
+   "pages": [
+    94
+   ],
+   "no": 12,
+   "poems": []
+  },
+  {
+   "id": "imayo-000013",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "月影のみ(同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "月影のみよするは。田上川の。みなかみ。稻舟のわづらふは。最上川の早き瀨。そことも知らぬ。琵琶の聲霞のひまに。まぎ(ィさ)れり。別のことさら(曾我物語所載)わかれの殊更。かなしきは。親のわかれ。子のなげき。夫婦の思と。兄弟と。いづれを分きて。思ふべき。袖にあまれる。忍音を。かへしてとゞむる。關もがな。をさまりなびく(吾妻鏡所載)",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    94
+   ],
+   "no": 13,
+   "poems": []
+  },
+  {
+   "id": "imayo-000014",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "人の國-外國",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "をさまりなびく。時なれや。一天四海の。內のみか。人の國まで。日の本の。もろこしが原も。此ところ。信濃にあるなる(體源抄所載)信濃にあるなる。木曾路川君におもひの。深ければ。水沫に袖をも。ぬらしつ〓。あらぬ世をこそ。すぐしけれ。ず來るとたのみに思はせられし人竹のよなかは(同上)竹の夜中は。あはれぬる。ふしも定めず。起きゐつ〓。人に知られぬ。戀をして。鳥の鳴くまで。寢も入らず。よしなの我等が(同上)よしなの我等が。獨寢や。かばかり寒き。冬の夜に。ころも薄くて。夜は長し。たのめし人は。待てどこず。心の內には(同上みて、この歌「忍ぶれど色に出にけり我が戀は物や思ふと人の問ふまで」によるこ〓ろの內には。忍べども。色に出にけり。我戀は。ものやおもふと。みな人の。あやめていかにと。問ふまでに。",
+   "yomi": "",
+   "sachu": "たのめし人-必あやめて-怪し",
+   "jo": false,
+   "pages": [
+    95
+   ],
+   "no": 14,
+   "poems": []
+  },
+  {
+   "id": "imayo-000015",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "藥師の十二の(古今著聞集所載)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "藥師の十二の。誓願は。衆病悉除。たのもしき。一經其耳は。さておきつ。皆令滿足すぐれたり。かれしろと〓〓しく離れさかる枯れにいひ掛く意、ませのうちなる(同上)笆のうちなる。白菊も。うつろふ見るこそ。あはれなれ。我等が通ひて。見し人も。かくしつよこそ。かれにしか。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    95
+   ],
+   "no": 15,
+   "poems": []
+  },
+  {
+   "id": "imayo-000016",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "像法轉の(梁塵口傳集所載)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "像法轉の。時にては藥師の誓ぞ。たのもしき。一たび御名を。聞く人は。よろづの病なしといふ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    95
+   ],
+   "no": 16,
+   "poems": []
+  },
+  {
+   "id": "imayo-000017",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "四大聲聞(同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "",
+   "yomi": "",
+   "sachu": "四大聲聞-一決定聲聞二退菩提聲聞三應化聲聞四增上慢聲聞",
+   "jo": false,
+   "pages": [
+    95,
+    96
+   ],
+   "no": 17,
+   "poems": []
+  },
+  {
+   "id": "imayo-000018",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "ゆくー取る",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "四大聲聞。いかばかり。よろこび身よりも。餘るらむ。われらは末世の佛ぞと。たしかに聞きつる。今日なれば。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    96
+   ],
+   "no": 18,
+   "poems": []
+  },
+  {
+   "id": "imayo-000019",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "熊野にまします同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "熊野にまします。權現は。名草の濱にぞ。おりたまふ。和歌の浦にし。ましませば。年はゆくとも。若王子。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    96
+   ],
+   "no": 19,
+   "poems": []
+  },
+  {
+   "id": "imayo-000020",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "ちはやぶる神(同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "ちはやぶる神。上におはします。ものならば。あはれに。おほしめせ。神もむかしは。人ぞかし。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    96
+   ],
+   "no": 20,
+   "poems": []
+  },
+  {
+   "id": "imayo-000021",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "春のはじめ(同上)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "春のはじめの。梅の花。よろこび開けて。實なるとか。みたらし川の。うす氷。こよろ解けたる。たゞいまかな。峰の嵐の(同上)峰のあらしの。はげしさに。木々の木の葉も。散りはてて。",
+   "yomi": "",
+   "sachu": "松のこかげ云々-朗詠集「倚松根而摩腰千年之舉滿手」の句と相似たり",
+   "jo": false,
+   "pages": [
+    96
+   ],
+   "no": 21,
+   "poems": []
+  },
+  {
+   "id": "imayo-000022",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "松の木陰に(同上",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "松のこかげに。立ちよれば。千とせの綠は。身にしめども。松が枝かざしに。さしつれば。春の雪こそ。降りか〓れ。",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    96
+   ],
+   "no": 22,
+   "poems": []
+  },
+  {
+   "id": "imayo-000023",
+   "form": "uta",
+   "maki": "",
+   "bu": "",
+   "dai": "大宮權現(日吉山王利生記所載)",
+   "kotobagaki": "",
+   "author": "",
+   "author_ocr": "",
+   "author_resolved": "",
+   "shuttei": "",
+   "text": "大宮權現は。おもへば〓主。釋迦ぞかし。一たび此地を。蹈む人は。靈山界會の友となる。僧都慶增作",
+   "yomi": "",
+   "sachu": "",
+   "jo": false,
+   "pages": [
+    96
+   ],
+   "no": 23,
+   "poems": []
+  }
+ ],
+ "poems": [],
+ "catalog": {
+  "work_id": "imayo",
+  "work": "今様",
+  "yomi": "いまよう",
+  "category": "歌謡",
+  "order": 0,
+  "era": "平安時代",
+  "author": "",
+  "kind": "kashu",
+  "blocks": 23,
+  "chars": 2047,
+  "poems": 23,
+  "yaku": 0,
+  "editions": 1,
+  "updated": "2026-10-26",
+  "updated_at": "2026-10-26T16:46:20+09:00"
+ }
+}
