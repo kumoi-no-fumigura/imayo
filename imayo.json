@@ -5,7 +5,12 @@
  "yomi": "いまよう",
  "category": "歌謡",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "歌謡（今様）",
+  "era": "平安時代後期",
+  "author": "未詳",
+  "desc": "平安後期に流行した七五調四句を基本とする新しい様式の歌謡。"
+ },
  "editions": [
   {
    "pid": "1913603",
