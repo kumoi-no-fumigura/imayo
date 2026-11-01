@@ -550,6 +550,10 @@
   }
  ],
  "poems": [],
+ "translation": {
+  "count": 20,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "imayo",
   "work": "今様",
@@ -562,7 +566,7 @@
   "blocks": 20,
   "chars": 1908,
   "poems": 23,
-  "yaku": 0,
+  "yaku": 20,
   "editions": 1,
   "updated": "2026-11-01",
   "updated_at": "2026-11-01T08:41:57+09:00"
